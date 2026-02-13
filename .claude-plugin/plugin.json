@@ -1,0 +1,10 @@
+{
+  "name": "atlas-ai-skills",
+  "version": "1.0.0",
+  "description": "Production AI development toolkit by Atlas AI. PRD generation, persistent session memory, mandatory research, skill codification, and accomplishment tracking.",
+  "author": {
+    "name": "Atlas AI",
+    "url": "https://atlas-ai.au"
+  },
+  "skills": "./skills"
+}
